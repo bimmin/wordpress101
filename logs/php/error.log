@@ -1,0 +1,23 @@
+[14-Jan-2020 04:05:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/bimmin/Local Sites/wpthemepart2/app/public/wp-content/themes/twentytwenty-child/functions.php on line 7
+[14-Jan-2020 04:58:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_post_category() in /Users/bimmin/Local Sites/wpthemepart2/app/public/wp-content/themes/twentytwenty-child/home.php:17
+Stack trace:
+#0 /Users/bimmin/Local Sites/wpthemepart2/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/bimmin/Local Sites/wpthemepart2/app/public/wp-blog-header.php(19): require_once('/Users/bimmin/L...')
+#2 /Users/bimmin/Local Sites/wpthemepart2/app/public/index.php(17): require('/Users/bimmin/L...')
+#3 {main}
+  thrown in /Users/bimmin/Local Sites/wpthemepart2/app/public/wp-content/themes/twentytwenty-child/home.php on line 17
+[14-Jan-2020 05:00:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_post_category() in /Users/bimmin/Local Sites/wpthemepart2/app/public/wp-content/themes/twentytwenty-child/home.php:17
+Stack trace:
+#0 /Users/bimmin/Local Sites/wpthemepart2/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/bimmin/Local Sites/wpthemepart2/app/public/wp-blog-header.php(19): require_once('/Users/bimmin/L...')
+#2 /Users/bimmin/Local Sites/wpthemepart2/app/public/index.php(17): require('/Users/bimmin/L...')
+#3 {main}
+  thrown in /Users/bimmin/Local Sites/wpthemepart2/app/public/wp-content/themes/twentytwenty-child/home.php on line 17
+[14-Jan-2020 05:00:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_category() in /Users/bimmin/Local Sites/wpthemepart2/app/public/wp-content/themes/twentytwenty-child/home.php:17
+Stack trace:
+#0 /Users/bimmin/Local Sites/wpthemepart2/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/bimmin/Local Sites/wpthemepart2/app/public/wp-blog-header.php(19): require_once('/Users/bimmin/L...')
+#2 /Users/bimmin/Local Sites/wpthemepart2/app/public/index.php(17): require('/Users/bimmin/L...')
+#3 {main}
+  thrown in /Users/bimmin/Local Sites/wpthemepart2/app/public/wp-content/themes/twentytwenty-child/home.php on line 17
+[14-Jan-2020 05:11:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/bimmin/Local Sites/wpthemepart2/app/public/wp-content/themes/twentytwenty-child/functions.php on line 10
